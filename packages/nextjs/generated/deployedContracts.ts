@@ -1,11 +1,11 @@
 const contracts = {
-  31337: [
+  80001: [
     {
-      chainId: "31337",
-      name: "localhost",
+      chainId: "80001",
+      name: "polygonMumbai",
       contracts: {
         LensTreasureHunt: {
-          address: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+          address: "0x5462964078808abc96f7F45Ff7f3158B819cD7E3",
           abi: [
             {
               inputs: [
